@@ -1,5 +1,5 @@
 Program zczytuje zawartosc plikow tekstowych z rozszerzeniem .txt, .json, .csv 
-po czym usuwa wszystkie spacje i wyrzuca na konsole. Program mozna uruchomic w metodzie Main odpalajac metode
+po czym usuwa wszystkie spacje i wyrzuca tekst na konsole. Program mozna uruchomic w metodzie Main odpalajac metode
 parseInput() na instancji obiektu TextReader2. Plik, ktory chcemy zczytam musi znajdowac sie w folderze resources,
 tak aby podczas kompilacji w fazie package zostaly zapisane do folderu target.
 
